@@ -5,6 +5,8 @@
 AI Community:
 https://www.skool.com/business24ai
 
+PGP to verify commits
+
 <!--
 **b24ai/b24ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
