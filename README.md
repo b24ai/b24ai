@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-2025-07-01
+Created at: 2025-07-01
+Updated at: 2025-07-01
 
 AI Community:
 https://www.skool.com/business24ai
-
-PGP to verify commits
 
 - 🔭 I’m currently working on n8n
 - 🌱 I’m currently learning .n8n
