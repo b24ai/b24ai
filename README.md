@@ -7,7 +7,7 @@ AI Community:
 https://www.skool.com/business24ai
 
 - 🔭 I’m currently working on n8n
-- 🌱 I’m currently learning .n8n
+- 🌱 I’m currently learning n8n
 - 👯 I’m looking to collaborate on n8n
 - 🤔 I’m looking for help with n8n
 - 💬 Ask me about n8n
