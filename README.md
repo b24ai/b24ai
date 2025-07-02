@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Created at: 2025-07-01
-Updated at: 2025-07-01
+Updated at: 2025-07-02
 
 AI Community:
 https://www.skool.com/business24ai
@@ -13,5 +13,5 @@ https://www.skool.com/business24ai
 - 💬 Ask me about n8n
 - 📫 How to reach me: https://b24.ai
 - 😄 Pronouns: He
-- ⚡ Fun fact: Working on AI
+- ⚡ Fun fact: Working on AI and Automation
 
