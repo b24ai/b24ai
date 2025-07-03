@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 Created at: 2025-07-01
-Updated at: 2025-07-02
+Updated at: 2025-07-03
 
-AI Community:
+AI Community on Skool:
 https://www.skool.com/business24ai
 
 - 🔭 I’m currently working on n8n
